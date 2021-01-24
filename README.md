@@ -1,6 +1,6 @@
 # Webscraping Using Scrapy
 
-In this project, the data is being from https://www.worldometers.info/world-population/population-by-country/.
+In this project, the data is being scraped from https://www.worldometers.info/world-population/population-by-country/.   
 This is probably the most simplest way of web scraping a website by creating spiders, using selectors like xpath, css-selectors.
 
 ### How To Install Scrapy
